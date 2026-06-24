@@ -6,8 +6,7 @@
 
 🌱 Currently Learning
 - Advanced React Native
-- Next.js
-- TypeScript
+- CI/CD piplining
 - System Design
 
 ---
