@@ -1,90 +1,107 @@
-# Hi 👋, I'm Sanjana Patel
+<h1 align="center">Hi 👋, I'm Sanjana Patel</h1>
 
-### React Native Developer | MERN Stack Developer
+<h3 align="center">
+Full Stack Developer | MERN | System Design | DevOps | AI
+</h3>
 
-💻 Passionate developer focused on building modern web and mobile applications using React Native, React.js, Node.js, Express.js, and MongoDB.
-
-🌱 Currently Learning
-- Advanced React Native
-- CI/CD piplining
-- System Design
-
----
-
-## 🚀 Tech Stack
-
-### Frontend
-- React.js
-- React Native
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- GraphQL
-
-### Database
-- MongoDB
-- MySQL
-
-### Tools & Technologies
-- Git & GitHub
-- Postman
-- VS Code
-- Expo
-- Firebase
-- Socket.IO
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-TypeScript-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-## 💼 Featured Projects
+## 👩‍💻 About Me
 
-### 📱 React Native Event Check-In App
-- Real-time attendee updates using Socket.IO
-- GraphQL API integration
-- Zustand state management
-- Authentication & role-based access
+I'm a **Full Stack Developer with 4+ years of experience** building scalable web applications and SaaS platforms.
 
-### 🎬 Movie App
-- React Native + Expo
-- Movie search and details
-- Responsive mobile UI
-- API integration
+I enjoy designing **secure, scalable and production-ready systems** using modern frontend, backend and cloud technologies.
 
-### 🏢 Parlour Admin Dashboard
-- Role-based authentication
-- Real-time attendance tracking
-- Next.js + Node.js + MongoDB
-- Dashboard analytics
+🚀 Currently focusing on:
 
-### 🏗️ Construction Management System
-- Diaries & Timesheets
-- Inspection Test Plans (ITPs)
-- Search, filters & pagination
-- React + Laravel
+- 🏗️ System Design & Scalable Architecture
+- ⚙️ CI/CD & DevOps
+- ☸️ Kubernetes
+- 🔄 Apache Kafka & Event-Driven Architecture
+- 🐍 Python & FastAPI
+- 🤖 Local AI with Ollama
+- 🧩 Microservices Architecture
+- 🔐 Secure Backend Systems
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+### 🎨 Frontend
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux" />
+</p>
+
+**React.js • Next.js • TypeScript • Tailwind CSS • Redux • Zustand • React Query**
+
+### ⚡ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
+
+**Node.js • Express.js • Hono • Python • FastAPI • REST APIs • WebSockets • Socket.IO**
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis" />
+</p>
+
+**PostgreSQL • MongoDB • MySQL • SQLite • Redis • Prisma**
+
+### 📨 Messaging & Distributed Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis" />
+</p>
+
+**Apache Kafka • RabbitMQ • BullMQ • Redis**
+
+### ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux" />
+</p>
+
+**Docker • Kubernetes • CI/CD • GitHub Actions • Linux**
+
+### 🤖 AI
+
+<p>
+<img src="https://img.shields.io/badge/Ollama-Local%20AI-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM-Local%20Models-purple?style=for-the-badge" />
+</p>
+
+**Ollama • Local LLMs • AI Integration • AI-powered Applications**
 
 ---
 
-## 📫 Connect With Me
+## 🏗️ Architecture & Engineering
 
-- LinkedIn: www.linkedin.com/in/sanjana-patel-435b6025a
-- Email: your-email@example.com
-
----
-
-⭐ Open to Frontend Developer, React Native Developer, and MERN Stack Developer opportunities.
+```text
+System Design
+     ↓
+Microservices
+     ↓
+Event Driven Architecture
+     ↓
+Kafka / RabbitMQ
+     ↓
+Redis Caching
+     ↓
+PostgreSQL / MongoDB
+     ↓
+Docker
+     ↓
+CI/CD
+     ↓
+Kubernetes
