@@ -17,33 +17,37 @@ backend and cloud technologies.
 <tr>
 <td width="50%">
 
-### 🚀 What I Do
+## 🚀 What I Do
 
-- ⚛️ Full Stack Web Development
-- 🏗️ Scalable System Architecture
-- 🔐 Secure Backend Development
-- 🧩 Multi-Tenant SaaS Platforms
-- ⚡ Performance Optimization
-- 🔄 Event-Driven Systems
+<p>
+  <img src="https://img.shields.io/badge/⚛️_Full_Stack-Development-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏗️_Scalable-System_Design-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔐_Secure-Backend-7c3aed?style=for-the-badge" />
+</p>
 
-</td>
+<p>
+  <img src="https://img.shields.io/badge/🧩_Multi--Tenant-SaaS-ff7a59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Performance-Optimization-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔄_Event--Driven-Systems-0891b2?style=for-the-badge" />
+</p>
 
-<td width="50%">
+---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- 🏗️ System Design
-- ⚙️ CI/CD & DevOps
-- ☸️ Kubernetes
-- 🔄 Apache Kafka
-- 🐍 Python & FastAPI
-- 🤖 Local AI & Ollama
-- 🧩 Microservices
-- 📡 Distributed Systems
+<p>
+  <img src="https://img.shields.io/badge/🏗️_System-Design-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️_CI%2FCD-DevOps-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☸️-Kubernetes-326CE5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔄-Apache_Kafka-231F20?style=for-the-badge" />
+</p>
 
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/🐍_Python-FastAPI-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_Local_AI-Ollama-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧩-Microservices-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📡-Distributed_Systems-ec4899?style=for-the-badge" />
+</p>
 
 ## 🛠️ Tech Stack
 
