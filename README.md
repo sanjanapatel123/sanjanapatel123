@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Sanjana 👋🏻</h1>
 
-<p align="left">
-  <img src="./assets/sanjana-banner.svg" width="100%" />
+<p align="center">
+  <img src="./sanjana-about.png" width="100%" />
 </p>
 
 <p>
