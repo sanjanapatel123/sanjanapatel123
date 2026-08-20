@@ -1,36 +1,49 @@
-<h1 align="center">Hi 👋, I'm Sanjana Patel</h1>
+<h1 align="left">Hi, I'm Sanjana 👋🏻</h1>
 
-<h3 align="center">
-Full Stack Developer | MERN | System Design | DevOps | AI
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-TypeScript-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<p align="left">
+  <img src="./assets/sanjana-banner.svg" width="100%" />
 </p>
 
----
+<p>
+I'm a <strong>Full Stack Developer with 4+ years of experience</strong>
+building scalable web applications and SaaS platforms. I enjoy designing
+secure, maintainable and production-ready systems using modern frontend,
+backend and cloud technologies.
+</p>
 
-## 👩‍💻 About Me
+<h2>👩‍💻 About Me</h2>
 
-I'm a **Full Stack Developer with 4+ years of experience** building scalable web applications and SaaS platforms.
+<table>
+<tr>
+<td width="50%">
 
-I enjoy designing **secure, scalable and production-ready systems** using modern frontend, backend and cloud technologies.
+### 🚀 What I Do
 
-🚀 Currently focusing on:
+- ⚛️ Full Stack Web Development
+- 🏗️ Scalable System Architecture
+- 🔐 Secure Backend Development
+- 🧩 Multi-Tenant SaaS Platforms
+- ⚡ Performance Optimization
+- 🔄 Event-Driven Systems
 
-- 🏗️ System Design & Scalable Architecture
+</td>
+
+<td width="50%">
+
+### 🌱 Currently Learning
+
+- 🏗️ System Design
 - ⚙️ CI/CD & DevOps
 - ☸️ Kubernetes
-- 🔄 Apache Kafka & Event-Driven Architecture
+- 🔄 Apache Kafka
 - 🐍 Python & FastAPI
-- 🤖 Local AI with Ollama
-- 🧩 Microservices Architecture
-- 🔐 Secure Backend Systems
+- 🤖 Local AI & Ollama
+- 🧩 Microservices
+- 📡 Distributed Systems
 
----
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
